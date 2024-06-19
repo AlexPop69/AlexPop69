@@ -1,5 +1,5 @@
 ## Hi there, I'm Alexander 👋 
-
+- 👨‍💻 I'm a beginner backend developer
 - 🌱 I'm currently learning **Golang** and studying at university
 - 🔭 I’m working on personal project
 - 🤝 I'm open to collaboration on interesting projects
